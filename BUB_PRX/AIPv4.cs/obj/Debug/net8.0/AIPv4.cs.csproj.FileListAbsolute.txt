@@ -1,0 +1,14 @@
+F:\DAT\PRX\DAT\AIPv4.cs\bin\Debug\net8.0\AIPv4.cs.exe
+F:\DAT\PRX\DAT\AIPv4.cs\bin\Debug\net8.0\AIPv4.cs.deps.json
+F:\DAT\PRX\DAT\AIPv4.cs\bin\Debug\net8.0\AIPv4.cs.runtimeconfig.json
+F:\DAT\PRX\DAT\AIPv4.cs\bin\Debug\net8.0\AIPv4.cs.dll
+F:\DAT\PRX\DAT\AIPv4.cs\bin\Debug\net8.0\AIPv4.cs.pdb
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.GeneratedMSBuildEditorConfig.editorconfig
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.AssemblyInfoInputs.cache
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.AssemblyInfo.cs
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.csproj.CoreCompileInputs.cache
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.dll
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\refint\AIPv4.cs.dll
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.pdb
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\AIPv4.cs.genruntimeconfig.cache
+F:\DAT\PRX\DAT\AIPv4.cs\obj\Debug\net8.0\ref\AIPv4.cs.dll
